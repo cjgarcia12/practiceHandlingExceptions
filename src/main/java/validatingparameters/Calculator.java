@@ -1,4 +1,4 @@
-package org.example;
+package validatingparameters;
 
 public class Calculator {
     private int num1;
